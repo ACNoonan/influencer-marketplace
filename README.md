@@ -1,4 +1,5 @@
-![Logo](src\Group_131.png?raw=true "Logo")
+![Group_131](https://user-images.githubusercontent.com/32802443/152693654-b5e145c4-8521-40e5-ab85-63aae9cfc339.png)
+
 
 Name: Fluency
 
