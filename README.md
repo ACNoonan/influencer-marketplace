@@ -1,3 +1,5 @@
+![Logo](src\Group_131.png?raw=true "Logo")
+
 Name: Fluency
 
 Description: Fluency is a platform that makes it easy for NFT projects to find influencers to promote their project. Fluency uses smart contracts to pay influencers automatically as they gain impressions for their posts. Fluency is the fastest and easiest way to promote your NFT project or to find work as an NFT influencer.
